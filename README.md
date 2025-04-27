@@ -18,6 +18,6 @@ This link is a my Twitter accounts.
 
 ## My Use Languages  
 # This is a used by my projects.  
-[![My Skills]("https://skillicons.dev/icons?i=html,css,js,github")](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github)](https://skillicons.dev)
 # I can use this skills.  
-[![My Skills]("https://skillicons.dev/icons?i=html,css,js,java,discord,cs,unity,blender,github,windows,linux)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,discord,cs,unity,blender,github,windows,linux)]
