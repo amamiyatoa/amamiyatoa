@@ -13,9 +13,11 @@ My projects is ...
 
 ## My Twitter Account
 This link is a my Twitter accounts.  
-<a href="https://twitter.com/toa3_ine">Twitter.com(main accounnt)</a>  
-<a href="https://twitter.com/amamiyatoa">Twitter.com(VRChat account)</a>  
+<a href="https://twitter.com/toa3_ine" target="_blank">Twitter.com(main accounnt)</a>  
+<a href="https://twitter.com/amamiyatoa" target="_blank">Twitter.com(VRChat account)</a>  
 
 ## My Use Languages  
-This is a used by my projects.  
-[]
+# This is a used by my projects.  
+[![My Skills]("https://skillicons.dev/icons?i=html,css,js,github")](https://skillicons.dev)  
+# I can use this skills.  
+[![My Skills]("https://skillicons.dev/icons?i=html,css,js,java,discord,cs,unity,blender,github,windows,linux)]
