@@ -19,5 +19,8 @@ This link is a my Twitter accounts.
 ## My Use Languages  
 # This is a used by my projects.  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github)](https://skillicons.dev)
-# I can use this skills.  
+# I can use this skills. 
+But i dont use this skills well...  
+I need to practice this skill more.  
+Ill do my best!  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,discord,cs,unity,blender,github,windows,linux)](https://skillicons.dev)
